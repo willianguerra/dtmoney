@@ -5,6 +5,7 @@ export const Container = styled.div`
 
   table { 
     width:100%;
+    padding: 0rem 2rem;
     border-spacing:0 0.5rem;
 
     th { 
